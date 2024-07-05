@@ -10,7 +10,7 @@ public class TesterSolarClass {
         sun obj = new sun();
         obj.heat="443";
         obj.redious="466";
-        obj.temp="666cw"c;
+        obj.temp="666cw";
 
 
     }
