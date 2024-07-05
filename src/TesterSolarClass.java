@@ -7,7 +7,10 @@ public class TesterSolarClass {
     milkyway.planet="3 crore/km";
     milkyway.sun="faraway";
 
-
+        sun obj = new sun();
+        obj.heat="443";
+        obj.redious="466";
+        obj.temp="666cw"c;
 
 
     }
